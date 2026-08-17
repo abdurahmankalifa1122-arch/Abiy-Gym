@@ -1,0 +1,6 @@
+{
+  "name": "Abiy Gym - Bole, Addis Ababa",
+  "description": "Premium modern fitness and strength training facility located in Bole, Addis Ababa, Ethiopia. Build strength. Build yourself.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
